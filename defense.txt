@@ -1,0 +1,33 @@
+Questions
+
+Pierre:
+
+calorimeter stuff
+why parrallel plates in HEC, tile? (sample shower longitudinally?)
+hadronic shower resolution sampling? why are more samples better? effects of non compensation - theres stuff on this in Wigmans - does it constribute to stochastic or constant term (to both -but understand how)?
+-
+
+- shower moments - he was asking about the energy density plot, and did I understand all the structures present in there. It might be worth looking into this in data/MC. I think agreement is worse in 4L, whereas 2004 TB looked more like 4H(?)
+
+the statement about leading order only being accurate to order of magnitude comes from NLOJetpp.pdf
+
+
+
+Jets
+- he mentioned unfolding
+
+-Thesis says TeV scale is relevant, but it's rare that TeV gluons are exchanged, TeV jets are rare, so statement in thesis is a little exaggerated.
+
+- jets - specifically ratio plots/powheg. Powheg is supposed to be better (interfaced). using fixed order + non-perturbative is old-school. Fig 5.23. Why powheg + herwig and powheg + perugia so much higher? Powehg x non-perturbative and powheg AUET2B are good. Differences are just nonperturbative soft physics, why is there so much variation?
+
+Mike
+
+Mentioned that stuff at LO is only leading order. Justify that. NLO should just bring in corrections at order \alpha/10, this shouldn't be order of magnitude type stuff.
+
+Why renormalizability is good was ok, but could use some work.
+
+
+
+
+
+

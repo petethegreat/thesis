@@ -1,0 +1,330 @@
+defended
+
+Todo:
+
+Make some more conclusions (in the body) regarding agreement between data and MC (for jets)
+
+- mention that measurement could be used to further tune pdf sets/showering models
+
+Would be nice to somehow do this for Testbeam
+
+
+
+
+
+
+changed - abstract (slightly)
+beam test studies - p132-133
+
+Inclusive jets - 
+summary, 174,178
+conclusion 179,180
+
+
+
+
+
+
+
+
+
+there are some red things in FCal chapter that should be dealt with (or ignored) appropriately.
+make the flowchart less shitty
+
+
+
+in Detector chapter, making reference to minimum bias. In QCD chap should talk about MB distribution, and how particle production is approximately uniform in eta. 
+
+
+
+rip the cross sectio plot from CERN_theory, discuss "physics at the TeV scale" in standard model part.
+
+some red stuff in qcd
+
+ 
+ mention and cite that minbias produces particles with a distribution that is mostly uniform in eta. Plot this if convenient. - done in Trigger section of detector chapter. Not sure that this is the best place for it. PK had some comments about trigger stuff being in Jet chapter. Alternatively, subsubsection things to make it fit better.
+ 
+
+mention factorization and renormalization scale somewhere. 
+factorization scale is the Q2 that the pdfs are evaluated at.
+renormalization scale is the Q2 that alphas is evaluated at.
+Think I will define these in inc jet chapter.
+
+
+mention non perturbative corrections. This can go either in Jets or in QCD
+
+and other parton shower stuff
+
+
+parton showers can do up to 8 jets in the final state, but the ME is only at tree level. - deal with this in qcd
+
+
+Sudakov - it is an approximation to complete virtual corrections - Torjborn - MC generators
+leading log - pythia 6.4 manual, matching NLO qcd
+
+
+Jet chapter
+
+should mention somewhere that different jet sizes are considered.
+need to refer to CMS jet measurement - does the forward and transition regions separately.
+
+
+replace 4 momentum with four momentum in qcd
+
+
+check CA cone - is it IR/collinear safe?
+
+jet chapter - JES systematic - make sure AMBT1 tune is defined before here (or define it here)
+
+
+DATA QUALITY
+
+
+fix end cap cross section fig 2.8->4.4
+
+dijet leading/subleading pt cut?
+
+trigger plots - sort out ATLAS labels, or lack of.
+
+try to find L1 trigger plots. these are in the backup note.
+
+
+mention something about how there would be lots of turn on curves for the dijet triggers (one for each trigger in each rapidity bin, so they've been omitted.
+
+unfolding ends abruptly
+
+
+
+
+
+THINGS TO DO IN QCD
+
+maybe add more to ISR - fuckit
+vague up CS subtraction - done
+talk about MC tunes AMBT, AUET - can cite something - done
+********parton showers - can do up to 8 well seperated jets in the final state .......
+plot of cross sections ...... DONE
+
+
+THINGS TO DO IN JETS
+
+Data Quality - Done - I think...
+L1 trigger plots ..... done - talk about L2 a bit more.
+leading/subleading pt cut? bias in phase space/trigger efficiency - fuckit, don't worry about this
+Either show per jet efficiencies for dijet trigger, or mention that there are too many plots to show.
+check CA cone - IR safety
+4-mom ->four momentum
+CMS measurement, ours is better because we do the transition region. - DONE
+
+
+THINGS TO DO IN ONE OR THE OTHER
+
+factorisation/renormilsation scales (put in inc jets, I think) - done
+non-perturbative corrections - think will do this in inc jets also - this described in PO's thesis - DONE
+
+
+
+
+-------------------------------------------------------
+
+- introduction
+- conclusion
+- FCal chapter revisions - done
+--- add page or so on the electron resolution/constant term/impact point dependence
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+Jan 2013 todo
+
+introduction 	- theory focuses on QCD (dominant interaction for jet production)
+		- detector focusses on calorimeters (used for jet reconstruction)
+		 -- particularly the FCal
+
+add that page to TB stuff on constant term - MC studies done on impact point dependence/reweighting of MC
+						mention that all testbeam simulations of FCal have a higher constant
+						term for electron resolution - done
+
+factorisation scale/renormalization scale - not just pythia things. quantum chromodynamics gunther
+
+
+go through all figures/tables. make sure a short caption is specified, something that will fit in one line for table of figures/table of tables
+
+		 
+PK's comments:
+- systematics on MC - meh
+
+- cluster size systematic on linearity. Count it for resolution, but not for linearity (this was the way it was done in the paper)
+
+- detector chapter - check dimensions. apparently some of the ones listed are warm, whereas we say all listed measurements are cold.
+
+- trigger stuff - be consistent. If the sliding window algorithm runs over endcap and FCal towers, then we can say that the central trigger does not include the FCal, but the forward jet trigger does not include "only" the FCal (the FCal only contributes to the forward jet trigger). check this - done
+
+electrons - for linearity, do residuals for MC. show data and MC residuals on same plot. 
+for topocluster residuals, make sure that caption says topoclusters.
+
+
+
+4H c16 - update data for everything
+
+update MC as well, as this uses weights from data
+
+need to update:
+weight plots for 4H - need to get all the weights - done
+resolution plots - done
+linearity plots - donw
+response plots - done
+noise plots - noisevbeam done
+
+response table - done
+**resolution numbers - these are ok - just check things that say "the constant term changes by 23%" or similar.
+
+
+check the text - comparisons between 4H and 4L
+check for topoclusters too, may reference c16 results at 4H
+ 
+
+
+Fucking systematics
+
+Not including cluster size as a source of systematic for electron linearity
+can get the correct numbers to put in thesis
+
+need to  update residual plots - get uncertainties on residuals without cluster size.
+
+
+PKs paper plots
+
+topoclustered pion resolutions - fix aspect ratio
+change hadron to pion in label
+
+electron linearity residuals - add simulation points to this plot
+ - make this plot for topoclusters (including simulation)
+ 
+
+TODO summary:
+
+do the words - still need to address PKs no.1 point, more emphasis on why testbeam data/simulations are important.
+
+fix plots, etc.
+ - fix the resolution numbers, do the weight plots for 4H
+
+fix numbers - DONE - for linearity. 
+
+
+electron linearity systematics - remove cluster contribution for both cylindrical clusters and topoclusters - DONE
+
+
+plots to fuck with
+
+4H weights
+
+4L and 4H topocluster resolutions (pions/aspect ratio) - my plots are fine. change the label of my thesis plot and send it to PK - done - pion_resolution*_t420.eps - DONE
+
+4L and 4H electron linearity residuals (add MC) -DONE
+
+4L and 4H topocluster electron linearity residuals (add MC also) -DONE
+
+
+
+
+
+
+
+
+systematics
+electrons 4L
+
+linearity c16 - 11.966 +/- 0.0607 (slope), -9.2 +/- 1.14 (intercept)
+
+Beam energy: 193.1, residual = -0.0354124 + 0.031368 - 0.0357938
+Beam energy: 147.8, residual = 0.226418 + 0.0121818 - 0.0648
+Beam energy: 100, residual = -0.0818516 + 0.00712618 - 0.0278274
+Beam energy: 80, residual = -0.123054 + 0.00306282 - 0.0485528
+Beam energy: 60, residual = -0.0896462 + 0.0193874 - 0.238603
+Beam energy: 40, residual = 0.637398 + 0.051875 - 0.184072
+Beam energy: 20, residual = -0.346766 + 0.321171 - 0.043728
+Beam energy: 10, residual = 0.493037 + 0.640201 - 1.29582
+
+4H
+
+slope = 11.6926 +/- 0.012832 (0.0598 with 0.5%)
+intercept = -17.5259 +- 1.31659
+
+Beam energy: 193.1, residual = 1.0514 + 0.0236372 - 0.174911
+Beam energy: 147.8, residual = 0.447752 + 0.0127787 - 0.204968
+Beam energy: 100, residual = -0.0785117 + 0.00649276 - 0.0918845
+Beam energy: 80, residual = -0.628645 + 0.0353141 - 0.149473
+Beam energy: 60, residual = -0.569157 + 0.0840083 - 0.0763959
+Beam energy: 40, residual = -0.465189 + 0.180612 - 0.03846
+Beam energy: 20, residual = -0.248772 + 0.607463 - 0.500281
+Beam energy: 10, residual = 3.32681 + 1.24828 - 1.11497
+
+electrons 4L topo, 
+slope int
+total: 0.0140705, 1.18476
+ nominal =1.20228e+01,   1.91602e-03 
+ add 0.5%
+ 
+Beam energy: 193.1, residual = 0.105266 + 0.0218177 - 0.0651903
+Beam energy: 147.8, residual = 0.258056 + 0 - 0.0899798
+Beam energy: 100, residual = -0.111167 + 0.0111968 - 0.0425665
+Beam energy: 80, residual = -0.22229 + 0.0127131 - 0.048063
+Beam energy: 60, residual = -0.253999 + 0.038481 - 0.209615
+Beam energy: 40, residual = 0.425542 + 0.136208 - 0.161002
+Beam energy: 20, residual = -0.453565 + 0.410259 - 0.552554
+Beam energy: 10, residual = 0.947438 + 0.832024 - 1.09894
+
+ 4H topo linearity
+0.0310794, 2.25785 
+add 0.5%
+
+Beam energy: 193.1, residual = 1.29778 + 0.612859 - 0.115285
+Beam energy: 147.8, residual = 0.550934 + 0.00807201 - 0.156271
+Beam energy: 100, residual = -0.0929455 + 0.012442 - 0.129471
+Beam energy: 80, residual = -0.706205 + 0.0398942 - 0.110138
+Beam energy: 60, residual = -0.707355 + 0.106924 - 0.0838834
+Beam energy: 40, residual = -0.721479 + 0.263372 - 0.0775081
+Beam energy: 20, residual = -0.270111 + 0.300058 - 0.518207
+Beam energy: 10, residual = 3.61438 + 1.30164 - 1.12458
+
+
+consistencey things
+make sure Figure, Table, Section, etc. are all capitalised consistantly
+non breaking spaces before \cites
+
+done Detector.
+done QCD
+
+
+captions - TOF/TOT - some captions are reference stuff, which is why references in text start at 7,8,9 instead of 1,2,3
+
+
+INCJET - hack eps plots on p156 - want the ET > 10 GeV notation rather than L1J10 or L1FJ10
+
+
+
+
+
+
+NEW
+
+
+fix plots (Ebeam -> Ebeam (GeV))
+add appendix
+tell PK 4H numbers in paper are bung.
+fuck around with figures and pages.
+
+
+newer
+
+ambt1 is for pythia6
+auet1 is herwig - but incjets results use auet2
+ambt2 and auet2 were bung - exist for both pythia and herwig
+ambt2b and auet2b are pythia
+
+
+
+
+

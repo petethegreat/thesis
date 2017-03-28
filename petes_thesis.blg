@@ -1,0 +1,101 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: petes_thesis.aux
+A level-1 auxiliary file: input/Introduction.aux
+A level-1 auxiliary file: input/qcd.aux
+A level-1 auxiliary file: input/Detector.aux
+A level-1 auxiliary file: input/FCALTB_chap.aux
+A level-1 auxiliary file: input/IncJets.aux
+A level-1 auxiliary file: input/Conclusion.aux
+The style file: pete_plain.bst.bst
+A level-1 auxiliary file: input/append_MCresults.aux
+A level-1 auxiliary file: input/append_dataMCweights.aux
+Database file #1: petes_thesis.bib
+Warning--string name "a294" is undefined
+--line 400 of file petes_thesis.bib
+Repeated entry---line 1603 of file petes_thesis.bib
+ : @article{JES_pub
+ :                 ,
+I'm skipping whatever remains of this entry
+`journal' is a missing field, not a string, for entry LEP
+while executing---line 1324 of file pete_plain.bst.bst
+`url' is a missing field, not a string, for entry Flugge
+while executing---line 1324 of file pete_plain.bst.bst
+`journal' is a missing field, not a string, for entry Herwig
+while executing---line 1324 of file pete_plain.bst.bst
+Warning--empty institution in atlas_AMBT_AUET
+Name 1 in "Evans, Lyndon, and Bryant, Philip" has a comma at the end for entry LHC_paper
+while executing---line 1324 of file pete_plain.bst.bst
+Warning--empty author in TDR_LAR
+Warning--empty institution in TDR_LAR
+Warning--empty author in ATLAS_TILE_TDR
+Warning--empty institution in ATLAS_TILE_TDR
+Warning--empty institution in Archambault:2009zza
+`journal' is a missing field, not a string, for entry Tompkins_minbias
+while executing---line 1324 of file pete_plain.bst.bst
+`url' is a missing field, not a string, for entry TB98_testbeam_results
+while executing---line 1324 of file pete_plain.bst.bst
+Warning--empty year in TB03_tbp
+Warning--empty institution in CEDAR_note
+`journal' is a missing field, not a string, for entry QGSP_paper
+while executing---line 1324 of file pete_plain.bst.bst
+Warning--empty author in monojets
+Warning--empty author in dijets
+Warning--empty author in IncJetConf
+`journal' is a missing field, not a string, for entry CMSincjetForward
+while executing---line 1324 of file pete_plain.bst.bst
+`journal' is a missing field, not a string, for entry cones
+while executing---line 1324 of file pete_plain.bst.bst
+`journal' is a missing field, not a string, for entry JES_pub
+while executing---line 1324 of file pete_plain.bst.bst
+Warning--empty author in beamspot_2010
+Warning--empty author in ATLAS-CONF-2011-014
+Warning--empty author in ATLAS-CONF-2011-028
+`journal' is a missing field, not a string, for entry Blobel:2002pu
+while executing---line 1324 of file pete_plain.bst.bst
+`journal' is a missing field, not a string, for entry Malaescu:2009dm
+while executing---line 1324 of file pete_plain.bst.bst
+`journal' is a missing field, not a string, for entry Malaescu:2011yg
+while executing---line 1324 of file pete_plain.bst.bst
+You've used 110 entries,
+            2219 wiz_defined-function locations,
+            1187 strings with 37657 characters,
+and the built_in function-call counts, 19793 in all, are:
+= -- 1719
+> -- 757
+< -- 29
++ -- 297
+- -- 187
+* -- 1355
+:= -- 3271
+add.period$ -- 247
+call.type$ -- 110
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 124
+duplicate$ -- 946
+empty$ -- 2036
+format.name$ -- 187
+if$ -- 4399
+int.to.chr$ -- 0
+int.to.str$ -- 110
+missing$ -- 82
+newline$ -- 467
+num.names$ -- 101
+pop$ -- 176
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 474
+stack$ -- 0
+substring$ -- 1190
+swap$ -- 138
+text.length$ -- 29
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 14
+while$ -- 170
+width$ -- 113
+write$ -- 1064
+(There were 14 error messages)

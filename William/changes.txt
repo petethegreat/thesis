@@ -1,0 +1,34 @@
+changed 1978 to 1974 - p3
+
+defined NLO - p12
+
+added "between different pairs of protons" - p14
+
+"It consists" -> "ATLAS consists..." - p19
+
+Added sentence about rapidity differences being invariant for boosts along beam axis - p21
+
+
+changed order of noise term and constant term paragraphs to match the order in which they occur in the resolution equation - p31
+
+clarified that granularities were in eta and phi in caption - p36
+
+
+added some discussion of the gain selector chip - p45
+
+Added the BCM - p52
+
+clarified that chapter was about the 2003 TB - p58
+
+p 89 - adjusted scale on plots so that uncertainties are visible
+
+
+p109 - got rid of a \subsection, so the general discussion on topoclusters comes under the main section heading
+
+p114 - changed the scales on the residual plots.
+
+p119 - added more description to the caption, which plot corresponds to which weight.
+
+p134 - added footnote clarifying that 2004 beam test studies were completed previously
+
+

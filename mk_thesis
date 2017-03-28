@@ -1,0 +1,34 @@
+latex petes_thesis
+mpost petes_thesis_mp
+latex petes_thesis
+bibtex petes_thesis
+#biblatex petes_thesis
+#bibtex petes_thesis
+latex petes_thesis
+
+sed  -i 's/A.~ Collaboration/ATLAS Collaboration/' petes_thesis.bbl
+sed  -i 's/C.~ Collaboration/CMS Collaboration/' petes_thesis.bbl
+sed -i "29d" petes_thesis.bbl
+latex petes_thesis
+
+dvipdf petes_thesis.dvi petes_thesis.pdf
+#dvips petes_thesis.dvi -o petes_thesis.ps
+#xpdf petes_thesis.pdf &
+#gv petes_thesis.ps &
+
+
+########
+
+## biblatex
+#latex petes_thesis
+#mpost petes_thesis_mp
+#latex petes_thesis
+#bibtex petes_thesis
+#biblatex petes_thesis
+#bibtex petes_thesis
+#latex petes_thesis
+#
+#dvipdf petes_thesis.dvi petes_thesis.pdf
+##dvips petes_thesis.dvi -o petes_thesis.ps
+##xpdf petes_thesis.pdf &
+##gv petes_thesis.ps &

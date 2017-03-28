@@ -1,0 +1,14 @@
+This is MetaPost, version 1.504 (kpathsea version 6.1.0)  15 APR 2013 16:49
+**petes_thesis_mp
+(mpost.mp (/usr/share/texlive/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.004)) (./petes_thesis_mp.mp
+(/usr/share/texmf/metapost/feynmf/feynmp.mp) [1] [2] [3] [4] [5] [6] [7] [8]
+[9] [10] [11] [12] [13] [14] )
+ 
+Here is how much of MetaPost's memory you used:
+ 419 strings using 5178 characters
+ 906224 bytes of node memory
+ 925 symbolic tokens
+ 14i,71n,28p,113b,3f stack positions out of 16i,84n,32p,200b,4f
+14 output files written: petes_thesis_mp.1 .. petes_thesis_mp.14
+

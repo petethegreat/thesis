@@ -1,0 +1,34 @@
+line 92 seems to be ticks on the upper edge of the axes
+
+line 112 after {m22} R XX XX XX - colour of "blue" error bars - want to dash these
+
+116 {m25} - red error bars
+
+colour of red line is line 120, after "black" - again, dash this
+
+
+{m26} etc are the marker symbols. 26 for open triangle up 23 for solid triangle down
+
+24 is the open circle 
+
+
+25 is open square
+
+
+
+akt6 - triangle markers
+X s /w 48
+ def /w2 {w 2 div} def /w3 {w 3 div} def 475 1781 699 1781 923 1781 1147 1781 1371 1781 1594 1781 1818 1781 2042 1781 8 { m26}
+ 
+ 
+ akt4 triangle markers
+ m cl s 2042 1766 m -98 Y s 2042 1668 m cl s 475 1781 m 1567 
+ 
+ X s /w 29
+ def /w2 {w 2 div} def /w3 {w 3 div} def 475 1781 699 1781 923 1781 1147 1781 1371 1781 1594 1781 1818 1781 2042 1781 8 { m26}
+ 
+ in akt6
+ first 475 1781 is the line for the or
+ second is the marker for the or
+ 
+ third is the starting point for the (dashed) central line. this is on line 112

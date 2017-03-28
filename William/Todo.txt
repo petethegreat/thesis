@@ -1,0 +1,21 @@
+Shampa:
+
+
+pdf plot - add errors, seperate valence and up/down quarks
+http://hepdata.cedar.ac.uk/pdf/pdf3.html <- add this reference in somewhere
+
+
+PK - typo, caption for infrared safety has a pt instead of \pt
+
+
+
+standard model -1978 - check this (griffiths) or change it (1974?)
+
+
+check tdr for FCal electrode gap size 267microns or 270? page 39
+
+
+page 40 - check PK's paper on material densities to get an estimate of the uncertainty on this
+
+
+page 88 - change the scales on the residual plots so that uncertaintiies are visible

@@ -1,0 +1,562 @@
+\begin{thebibliography}{100}
+
+\bibitem{LEP}
+F.~ Spano.
+\newblock {\em {Standard model electroweak measurements at LEP}}, arXiv:
+  hep-ex/0605093, 2006.
+
+\bibitem{tevatron_top}
+T.~ Aaltonen et~al.
+\newblock {\em {Combination of the top-quark mass measurements from the
+  Tevatron collider}}, Phys. Rev. D86, 092003, 2012.
+
+\bibitem{CernHiggsPR}
+CERN experiments observe particle consistent with long-sought Higgs boson, July
+  2012,
+  http://press.web.cern.ch/press/PressReleases/Releases2012/PR17.12E.html.
+
+\bibitem{ATLAS_higgs}
+G.~ Aad et~al.
+\newblock {\em Observation of a new particle in the search for the Standard
+  Model Higgs boson with the ATLAS detector at the LHC}, Phys. Lett. B716, 1 --
+  29, 2012.
+
+\bibitem{reviewPP2012}
+J.~ Beringer et~al.
+\newblock {\em {Review of particle physics. Particle Data Group}}, Phys. Rev.
+  D86, 2012.
+
+\bibitem{Collins1985104}
+J.~C.  Collins, D.~E.  Soper, and G.~ Sterman.
+\newblock {\em Factorization for short distance hadron-hadron scattering},
+  Nucl. Phys. B261, 104 -- 142, 1985.
+
+\bibitem{burgessSM}
+C.~ Burgess and G.~ Moore.
+\newblock {\em The Standard Model: A Primer}.
+\newblock Cambridge University Press, 2007.
+
+\bibitem{greiner2007quantum}
+W.~ Greiner, S.~ Schramm, and E.~ Stein.
+\newblock {\em Quantum Chromodynamics}.
+\newblock Springer, 2007.
+
+\bibitem{Altarelli1977298}
+G.~ Altarelli and G.~ Parisi.
+\newblock {\em Asymptotic freedom in parton language}, Nucl. Phys. B126, 298 --
+  318, 1977.
+
+\bibitem{CT10_note}
+H.-L.  Lai et~al.
+\newblock {\em {New parton distributions for collider physics}}, Phys. Rev.
+  D82, 074024, 2010.
+
+\bibitem{Hera}
+G.~ Voss and B.~ Wiik.
+\newblock {\em The electron-proton collider HERA}, Annual Review of Nuclear and
+  Particle Science 44, 413--452, 1994.
+
+\bibitem{Tevatron}
+L.~ Lederman.
+\newblock {\em {The Tevatron}}, Sci. Am. 264, 26--33, 1991.
+
+\bibitem{hard_quarks}
+J.~ Campbell, J.~W.  Huston, and W.~J.  Stirling.
+\newblock {\em Hard interactions of quarks and gluons: a primer for LHC
+  physics}, Reports on Progress in Physics 70, 89, 2007.
+
+\bibitem{CataniSeymour}
+S.~ Catani and M.~ Seymour.
+\newblock {\em {A general algorithm for calculating jet cross-sections in NLO
+  QCD}}, Nucl. Phys. B485, 291--419, 1997.
+
+\bibitem{new_method}
+P.~ Nason.
+\newblock {\em {A New method for combining NLO QCD with shower Monte Carlo
+  algorithms}}, JHEP 0411, 040, 2004.
+
+\bibitem{pythia}
+T.~ Sj{\"o}strand, S.~ Mrenna, and P.~ Skands.
+\newblock {\em A brief introduction to PYTHIA 8.1}, Computer Physics
+  Communications 178, 852--867, 2008.
+
+\bibitem{Herwig}
+G.~ Corcella et~al.
+\newblock {\em {HERWIG 6.5 release note}}, arXiv: hep-ph/0210213, 2002.
+
+\bibitem{MC_generators}
+T.~ Sj{\"o}strand.
+\newblock {\em Monte carlo generators}, arXiv preprint hep-ph/0611247 , 2006.
+
+\bibitem{matchingNLOQCD}
+S.~ Frixione and B.~R.  Webber.
+\newblock {\em {Matching NLO QCD computations and parton shower simulations}},
+  JHEP 0206, 029, 2002.
+
+\bibitem{Jimmy}
+J.~ Butterworth et~al., Jimmy generator: multiparton interactions in HERWIG,
+  July 2012, http://jimmy.hepforge.org/.
+
+\bibitem{atlas_AMBT_AUET}
+G.~ Aad et~al.
+\newblock {Further ATLAS tunes of PYTHIA6 and Pythia 8}.
+\newblock Technical Report ATL-PHYS-PUB-2011-014, ATL-COM-PHYS-2011-1507, 2011.
+
+\bibitem{perugia2011}
+P.~Z.  Skands.
+\newblock {\em {Tuning Monte Carlo Generators: The Perugia Tunes}}, Phys. Rev.
+  D82, 074018, 2010.
+
+\bibitem{powheg}
+S.~ Frixione, P.~ Nason, and C.~ Oleari.
+\newblock {\em {Matching NLO QCD computations with Parton Shower simulations:
+  the POWHEG method}}, JHEP 0711, 070, 2007.
+
+\bibitem{NLOjetpp}
+Z.~ Nagy, NLOJET++ home page, July 2012, http://www.desy.de/\textasciitilde
+  znagy/Site/NLOJet++.html.
+
+\bibitem{powheg_box}
+S.~ Alioli et~al.
+\newblock {\em {A general framework for implementing NLO calculations in shower
+  Monte Carlo programs: the POWHEG BOX}}, JHEP 1006, 043, 2010.
+
+\bibitem{powheg_box_jetpair}
+S.~ Alioli et~al.
+\newblock {\em {Jet pair production in POWHEG}}, JHEP 1104, 081, 2011.
+
+\bibitem{LHC_paper}
+L.~ Evans and P.~ Bryant.
+\newblock {\em {LHC Machine}}, JINST 3, S08001, 2008.
+
+\bibitem{LHC_proton_source}
+M.~ Benedikt et~al., A walk through the LHC injector chain, 2005,
+  http://cdsweb.cern.ch/record/794393/pages, CERN, Geneva, 21 - 23 Mar 2005.
+
+\bibitem{detector_paper}
+G.~ Aad et~al.
+\newblock {\em {The ATLAS Experiment at the CERN Large Hadron Collider}}, JINST
+  3, S08003, 2008.
+
+\bibitem{CMSdetector}
+S.~ Chatrchyan et~al.
+\newblock {\em {The CMS experiment at the CERN LHC}}, JINST 3, S08004, 2008.
+
+\bibitem{vertex_ref}
+G.~ Aad et~al.
+\newblock Performance of primary vertex reconstruction in proton-proton
+  collisions at $\sqrt{s}$ = 7 TeV in the ATLAS experiment.
+\newblock Technical Report ATLAS-CONF-2010-069, CERN, Geneva, Jul 2010.
+
+\bibitem{muon_bs}
+G.~ Aad et~al.
+\newblock Muon Momentum Resolution in First Pass Reconstruction of pp Collision
+  Data Recorded by ATLAS in 2010.
+\newblock Technical Report ATLAS-CONF-2011-046, CERN, Geneva, Mar 2011.
+
+\bibitem{wigmans2000calorimetry}
+R.~ Wigmans.
+\newblock {\em Calorimetry: Energy Measurement in Particle Physics}.
+\newblock International Series of Monographs on Physics. Clarendon Press, 2000.
+
+\bibitem{ReviewPP98}
+C.~ Caso et~al.
+\newblock {\em {Review of particle physics. Particle Data Group}}, Eur. Phys.
+  J. C3, 1--794, 1998.
+
+\bibitem{wigmans2008calorimetry}
+R.~ Wigmans.
+\newblock {\em Calorimetry}, Scientifica Acta 2, 18, 2008.
+
+\bibitem{zeus}
+M.~ Derrick et~al.
+\newblock {\em Design and construction of the ZEUS barrel calorimeter}, Nucl.
+  Inst. Meth. A309, 77 -- 100, 1991.
+
+\bibitem{fabiola_calorimetry}
+C.~W.  Fabjan and F.~ Gianotti.
+\newblock {\em Calorimetry for particle physics}, Rev. Mod. Phys. 75,
+  1243--1286, Oct 2003.
+
+\bibitem{TDR_LAR}
+ATLAS liquid-argon calorimeter: Technical Design Report.
+\newblock Technical Report ATLAS-TDR-2 ; CERN-LHCC-96-041 ; CERN/LHCC 96-41,
+  Geneva, 1996.
+
+\bibitem{ATLAS_barrel_electrode}
+B.~ Aubert et~al.
+\newblock {\em {Development and construction of large size signal electrodes
+  for the ATLAS electromagnetic calorimeter}}, Nucl. Inst. Meth. A539,
+  558--594, 2005.
+
+\bibitem{ATLAS_TILE_TDR}
+ATLAS tile calorimeter: Technical Design Report.
+\newblock Technical Report ATLAS-TDR-3 ; CERN-LHCC-96-042, Geneva, 1996.
+
+\bibitem{HEC_construction}
+D.~M.  Gingrich et~al.
+\newblock {\em {Construction, assembly and testing of the ATLAS hadronic
+  end-cap calorimeter}}, JINST 2, P05005, 2007.
+
+\bibitem{1990NIMPA}
+J.~ {Colas}, M.~ {Pripstein}, and W.~A.  {Wenzel}.
+\newblock {\em {The electrostatic transformer}}, Nucl. Inst. Meth. pages
+  583--590, September 1990.
+
+\bibitem{FCal_jinst_2010}
+A.~ Artamonov et~al.
+\newblock {\em The ATLAS Forward Calorimeter}, JINST 3, P02010, 2008.
+
+\bibitem{Archambault:2009zza}
+J.~P.  Archambault et~al.
+\newblock {The simulation of the ATLAS liquid argon calorimetry}.
+\newblock Technical Report ATL-LARG-PUB-2009-001-1, ATL-COM-LARG-2008-002,
+  2009.
+
+\bibitem{ATLAS_FEB_design}
+N.~J.  Buchanan et~al.
+\newblock {\em Design and implementation of the Front End Board for the readout
+  of the ATLAS liquid argon calorimeters}, JINST 3, P03004, 2008.
+
+\bibitem{OFC_paper}
+W.~ Cleland and E.~ Stern.
+\newblock {\em Signal processing considerations for liquid ionization
+  calorimeters in a high rate environment}, Nucl. Inst. Meth. A338, 467 -- 497,
+  1994.
+
+\bibitem{SPICE_paper}
+L.~W.  Nagel and D.~ Pederson.
+\newblock SPICE (Simulation Program with Integrated Circuit Emphasis).
+\newblock Technical Report UCB/ERL M382, EECS Department, University of
+  California, Berkeley, Apr 1973.
+
+\bibitem{LAr_Electronics}
+J.~ Ye.
+\newblock Electronics of the Atlas Liquid Argon Calorimeter and its Precision
+  Calibration.
+\newblock Technical Report ATL-LARG-PROC-2009-006. ATL-COM-LARG-2009-020, CERN,
+  Geneva, Jun 2009.
+\newblock June 17, 2009.
+
+\bibitem{cell_equal}
+D.~ Banfi, M.~ Delmastro, and M.~ Fanti.
+\newblock {\em Cell response equalisation of the ATLAS electromagnetic
+  calorimeter without the direct knowledge of the ionisation signals}, JINST 1,
+  P08001, 2006.
+
+\bibitem{LUCID}
+M.~ Bruschi.
+\newblock {\em The ATLAS luminosity monitor}, Nucl. Inst. Meth. A623, 371 --
+  373, 2010.
+\newblock 1st International Conference on Technology and Instrumentation in
+  Particle Physics.
+
+\bibitem{ALFA}
+P.~ Jenni et~al.
+\newblock {\em ATLAS Forward Detectors for Measurement of Elastic Scattering
+  and Luminosity}.
+\newblock Technical Design Report. CERN, Geneva, 2008.
+
+\bibitem{Tompkins_minbias}
+L.~ Tompkins.
+\newblock {\em {Performance of the ATLAS Minimum Bias Trigger in p-p collisions
+  at the LHC}}, arXiv: 1009.6133, 2010.
+
+\bibitem{atlas_minbias}
+G.~ Aad et~al.
+\newblock {\em {Charged-particle multiplicities in pp interactions measured
+  with the ATLAS detector at the LHC}}, New J. Phys. 13, 053033, 2011.
+
+\bibitem{ATLAS_front_end_electronics}
+N.~J.  Buchanan et~al.
+\newblock {\em ATLAS liquid argon calorimeter front end electronics}, JINST 3,
+  P09003, 2008.
+
+\bibitem{ATLAS_L1Calo}
+R.~ Achenbach et~al.
+\newblock {\em {The ATLAS level-1 calorimeter trigger}}, JINST 3, P03001, 2008.
+
+\bibitem{JEM_spec}
+U.~ Sch\"{a}fer and S.~ Silverstein, ATLAS level-1 Calorimeter Trigger
+  Jet/Energy Module Project Specification, October 2012,
+  https://edms.cern.ch/file/326674/1.2d/JEMspec12d.pdf.
+
+\bibitem{TB93_prototype}
+M.~ Ferguson et~al.
+\newblock {\em Electron testbeam results for the ATLAS liquid argon forward
+  calorimeter prototype}, Nucl. Inst. Meth. A383, 399 -- 408, 1996.
+
+\bibitem{TB95_prototype}
+J.~ Armitage et~al.
+\newblock {\em Results for electrons from the 1995 ATLAS forward calorimeter
+  prototype testbeam}, Nucl. Phys. B61, 101 -- 105, 1998.
+\newblock Proceedings of the Fifth International Conference on Advanced
+  Technology and Particle Physics.
+
+\bibitem{TB98_testbeam_results}
+P.~ Loch.
+\newblock {Testbeam results for the ATLAS forward calorimeter module 0}.
+\newblock In {\em proceedings of the 8th International Conference on
+  Calorimetry in High Energy Physics}, pages 184--191, Lisbon, June 1999.
+\newblock June 1999.
+
+\bibitem{TB98_electron_signals}
+J.~ Armitage et~al.
+\newblock {\em {Electron signals in the forward calorimeter prototype for
+  ATLAS}}, JINST 2, P11001, 2007.
+
+\bibitem{TB2004pub}
+J.~ Pinfold et~al.
+\newblock {\em Performance of the ATLAS liquid argon endcap calorimeter in the
+  pseudorapidity region 2.5 $< |\eta| <$ 4.0 in beam tests}, Nucl. Inst. Meth.
+  A593, 324 -- 342, 2008.
+
+\bibitem{EMECTB1}
+J.~ Colas et~al.
+\newblock {\em {Position resolution and particle identification with the ATLAS
+  EM calorimeter}}, Nucl. Inst. Meth. A550, 96--115, 2005.
+
+\bibitem{EMECTB2}
+J.~ Colas et~al.
+\newblock {\em {Response Uniformity of the ATLAS Liquid Argon Electromagnetic
+  Calorimeter}}, Nucl. Inst. Meth. A582, 429--455, 2007.
+
+\bibitem{LouiseThesis}
+L.~ {Heelan}.
+\newblock {\em {Calibration of the ATLAS Forward Calorimeter and a Study of the
+  Top Quark Production Cross-section Measurement in the Dilepton Channel}}.
+\newblock PhD thesis, Carleton University (Canada), 2011.
+
+\bibitem{TB03_tbp}
+J.~P.  Archambault et~al.
+\newblock {\em Performance of the ATLAS Liquid Argon Forward Calorimeter in
+  beam tests}, to be submitted to JINST .
+
+\bibitem{Fcalpaper}
+J.~P.  Archambault et~al.
+\newblock {\em {Energy calibration of the ATLAS liquid argon forward
+  calorimeter}}, JINST 3, P02002, 2008.
+
+\bibitem{CEDAR_note}
+C.~ Bovet et~al.
+\newblock The CEDAR counters for particle identification in the SPS secondary
+  beams: a description and an operation manual.
+\newblock Technical Report CERN-82-13, Geneva, 1982.
+
+\bibitem{geant4}
+S.~ Agostinelli et~al.
+\newblock {\em {GEANT4: A Simulation toolkit}}, Nucl. Inst. Meth. A506,
+  250--303, 2003.
+
+\bibitem{QGSP_paper}
+G.~ Folger and J.~P.  Wellisch.
+\newblock {\em String Parton Models in Geant4}, arXiv: nucl-th/0306007, 2003.
+
+\bibitem{LEP_paper}
+H.~ Fesefeldt.
+\newblock The simulation of hadronic showers Physics and applications.
+\newblock Technical Report PITHA--85/02, Aachen Technische Hochschule, Germany,
+  1985.
+
+\bibitem{Bertini_paper}
+V.~ Barashenkov et~al.
+\newblock {\em Medium energy intranuclear cascade calculations: a comparative
+  study}, Nucl. Phys. A187, 531 -- 544, 1972.
+
+\bibitem{Bertini2}
+H.~W.  Bertini.
+\newblock {\em Low-Energy Intranuclear Cascade Calculation}, Phys. Rev. 131,
+  1801--1821, Aug 1963.
+
+\bibitem{QGSP_HP_note}
+P.~ Speckmayer.
+\newblock Impact of the choice of physics list on GEANT4 simulations of
+  hadronic showers in tungsten.
+\newblock Technical Report LCD-Note-2010-00, CERN, Switzerland, 2010.
+
+\bibitem{Fritiof_string_paper}
+B.~ Andersson, G.~ Gustafson, and B.~ Nilsson-Almqvist.
+\newblock {\em A model for low-\pt hadronic reactions with generalizations to
+  hadron-nucleus and nucleus-nucleus collisions}, Nucl. Phys. B281, 289 -- 309,
+  1987.
+
+\bibitem{Rutherfoord:968060}
+J.~ Rutherfoord.
+\newblock The Shape of the ATLAS Forward Calorimeter Current Pulse.
+\newblock Technical Report ATL-LARG-PUB-2006-004. ATL-COM-LARG-2006-005, CERN,
+  Geneva, Jun 2006.
+
+\bibitem{Rutherfoord:970622}
+J.~ Rutherfoord.
+\newblock Electrode Transmission Line Corrections to the ATLAS Forward
+  Calorimeter Pulse.
+\newblock Technical Report ATL-LARG-PUB-2006-005. ATL-COM-LARG-2006-006, CERN,
+  Geneva, May 2006.
+
+\bibitem{CTB_localHadCal}
+K.-J.  Grahn et~al.
+\newblock {\em Tests of Local Hadron Calibration Approaches in ATLAS Combined
+  Beam Tests}, Journal of Physics: Conference Series 293, 012032, 2011.
+
+\bibitem{calpub2010}
+E.~ Abat et~al.
+\newblock Response and Shower Topology of 2 to 180 GeV Pions Measured with the
+  ATLAS Barrel Calorimeter at the CERN Test-beam and Comparison to Monte Carlo
+  Simulations.
+\newblock Technical Report ATL-CAL-PUB-2010-001, CERN, Geneva, May 2010.
+
+\bibitem{Lampl:1099735}
+W.~ Lampl et~al.
+\newblock Calorimeter Clustering Algorithms: Description and Performance.
+\newblock Technical Report ATL-LARG-PUB-2008-002, ATL-COM-LARG-2008-003, CERN,
+  Geneva, Apr 2008.
+
+\bibitem{localHadronicCalibration}
+T.~ Barillari et~al.
+\newblock Local Hadronic Calibration.
+\newblock Technical Report ATL-LARG-PUB-2009-001-2, ATL-COM-LARG-2008-006,
+  CERN, Geneva, Jun 2008.
+
+\bibitem{nim_tbp}
+J.~ Pinfold et~al.
+\newblock {\em {Evaluation of the Local Hadronic Calibration with Combined
+  Beam-Test Data for the Endcap and Forward Calorimeters of ATLAS in the
+  Pseudorapidity Region 2.5 $ < |\eta| < $ 4.0}}, Nucl. Inst. Meth. A693,
+  74--97, 2012.
+
+\bibitem{monojets}
+Search for New Phenomena in Monojet plus Missing Transverse Momentum Final
+  States using 10$\mathrm{fb}^{-1}$ of pp Collisions at $\sqrt{s}$ = 8 TeV with
+  the ATLAS detector at the LHC.
+\newblock Technical Report ATLAS-CONF-2012-147, CERN, Geneva, Nov 2012.
+
+\bibitem{dijets}
+Search for New Phenomena in the Dijet Mass Distribution updated using 13.0
+  $\mathrm{fb}^{-1}$ of $pp$ Collisions at $\sqrt{s}=8$ TeV collected by the
+  ATLAS Detector.
+\newblock Technical Report ATLAS-CONF-2012-148, CERN, Geneva, Nov 2012.
+
+\bibitem{InclusivePaperAtlas1}
+G.~ Aad et~al.
+\newblock {\em {Measurement of inclusive jet and dijet cross sections in
+  proton-proton collisions at 7 TeV centre-of-mass energy with the ATLAS
+  detector}}, Eur. Phys. J. C71, 1512, 2011.
+
+\bibitem{inclusive_confnote_1}
+A.~ Collaboration.
+\newblock Measurement of jet production in 7 TeV proton-proton collisions with
+  the ATLAS Detector.
+\newblock Technical Report ATLAS-COM-CONF-2010-052, CERN, Geneva, Jun 2010.
+\newblock See back up note for full author list.
+
+\bibitem{IncJetConf}
+Measurement of inclusive jet and dijet cross sections in proton-proton
+  collision data at 7 TeV centre-of-mass energy using the ATLAS detector.
+\newblock Technical Report ATLAS-CONF-2011-047, CERN, Geneva, Mar 2011.
+
+\bibitem{InclusivePaper2010}
+G.~ Aad et~al.
+\newblock {\em {Measurement of inclusive jet and dijet production in pp
+  collisions at $\sqrt{s}$ = 7 TeV using the ATLAS detector}}, Phys. Rev. D86,
+  014022, 2012.
+
+\bibitem{CMSincjet}
+S.~ Chatrchyan et~al.
+\newblock {\em {Measurement of the Inclusive Jet Cross Section in pp Collisions
+  at $\sqrt{s}$ = 7 TeV}}, Phys. Rev. Lett. 107, 132001, 2011.
+
+\bibitem{CMSincjetForward}
+C.~ Collaboration.
+\newblock {\em {Measurement of forward jets in proton--proton collisions at
+  $\sqrt{s}$ = 7 TeV}}, CDS: CMS-PAS-FWD-10-003, 2011.
+
+\bibitem{CMS_dijet}
+S.~ Chatrchyan and  others.
+\newblock {\em {Measurement of the differential dijet production cross section
+  in proton-proton collisions at $\sqrt{s}=7$ TeV}}, Phys. Lett. B700,
+  187--206, 2011.
+
+\bibitem{Cacciari:2008gp}
+M.~ Cacciari, G.~P.  Salam, and G.~ Soyez.
+\newblock {\em {The anti-$k_\mathrm{T}$ jet clustering algorithm}}, JHEP 04,
+  063, 2008.
+
+\bibitem{Catani1993187}
+S.~ Catani et~al.
+\newblock {\em {Longitudinally invariant $k_\mathrm{T}$ clustering algorithms
+  for hadron hadron collisions}}, Nucl. Phys. B406, 187--224, 1993.
+
+\bibitem{CA_cone}
+Y.~L.  Dokshitzer et~al.
+\newblock {\em {Better jet clustering algorithms}}, JHEP 9708, 001, 1997.
+
+\bibitem{cones}
+G.~C.  Blazey et~al.
+\newblock {\em {Run II jet physics}}, pages 47--77, 2000.
+
+\bibitem{JES_pub}
+G.~ Aad and  others.
+\newblock {\em {Jet energy measurement with the ATLAS detector in proton-proton
+  collisions at $\sqrt{s}=7$ TeV}}, arXiv: 1112.6426, 2011.
+
+\bibitem{beamspot_2010}
+Characterization of Interaction-Point Beam Parameters Using the pp Event-Vertex
+  Distribution Reconstructed in the ATLAS Detector at the LHC.
+\newblock Technical Report ATLAS-CONF-2010-027, CERN, Geneva, May 2010.
+
+\bibitem{ATLAS-CONF-2011-014}
+In-situ pseudorapidity intercalibration for evaluation of jet energy scale
+  uncertainty using dijet events in proton-proton collisions at $\sqrt{s}$ = 7
+  TeV.
+\newblock Technical Report ATLAS-CONF-2011-014, CERN, Geneva, Mar 2011.
+
+\bibitem{ATLAS_JES_2010}
+G.~ Aad et~al.
+\newblock Jet energy scale and its systematic uncertainty in proton-proton
+  collisions at $\sqrt{s}$ = 7 TeV in ATLAS 2010 data.
+\newblock Technical Report ATLAS-CONF-2011-032, CERN, Geneva, Mar 2011.
+
+\bibitem{ATLAS-CONF-2011-028}
+ATLAS Calorimeter Response to Single Isolated Hadrons and Estimation of the
+  Calorimeter Jet Scale Uncertainty.
+\newblock Technical Report ATLAS-CONF-2011-028, CERN, Geneva, Mar 2011.
+
+\bibitem{Khramov:1172156}
+E.~ Khramov et~al.
+\newblock Study of the Response of the Hadronic Barrel Calorimeter in the ATLAS
+  Combined Test-beam to Pions of Energies from 20 to 350 GeV for Beam Impact
+  Points from 0.2 to 0.65.
+\newblock Technical Report ATL-TILECAL-PUB-2009-007. ATL-COM-TILECAL-2009-006,
+  CERN, Geneva, Apr 2009.
+
+\bibitem{alpgen}
+M.~L.  Mangano et~al.
+\newblock {\em {ALPGEN, a generator for hard multiparton processes in hadronic
+  collisions}}, JHEP 0307, 001, 2003.
+
+\bibitem{combining_triggers}
+V.~ Lendermann et~al.
+\newblock {\em {Combining Triggers in HEP Data Analysis}}, Nucl.Instrum.Meth.
+  A604, 707--718, 2009.
+
+\bibitem{Blobel:2002pu}
+V.~ Blobel.
+\newblock {\em {An Unfolding method for high-energy physics experiments}},
+  arXiv: hep-ex/0208022, 2002.
+
+\bibitem{Malaescu:2009dm}
+B.~ Malaescu.
+\newblock {\em {An Iterative, dynamically stabilized method of data
+  unfolding}}, arXiv: 0907.3791, 2009.
+
+\bibitem{Malaescu:2011yg}
+B.~ Malaescu.
+\newblock {\em {An Iterative, Dynamically Stabilized(IDS) Method of Data
+  Unfolding}}, arXiv: 1106.3107, 2011.
+
+\bibitem{dijet_scale_ref}
+S.~D.  Ellis, Z.~ Kunszt, and D.~E.  Soper.
+\newblock {\em {Two jet production in hadron collisions at order alpha-s**3 in
+  QCD}}, Phys.Rev.Lett. 69, 1496--1499, 1992.
+
+\end{thebibliography}

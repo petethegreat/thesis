@@ -1,0 +1,8 @@
+
+renormalisable - can calculate stuff at energy E without needing to know details on theory at energies above \Lambda.
+
+Renormalizable (superficially) interactions - couplings must have dimension (mass) less than 4. Otherwise couplings blow up at high scales, non perturbative.
+
+quickly look at gauge transformations. Want to (at least roughly) know how fields (fermion/boson) transform.
+
+

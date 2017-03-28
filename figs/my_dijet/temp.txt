@@ -1,0 +1,5 @@
+ 3 lw 1718 718 m20 6 lw
+ gsave  2268 2176 0 0 C 1773 696 t 0 r /Helvetica findfont 72.293 sf 0 0 m ( L1_FJ10) show NC gr  1672 718 m 30 X s 1734 718 m 29 X s 1 0 0 c 3 lw 1718 609 m24 6 lw black
+ gsave  2268 2176 0 0 C 1773 590 t 0 r /Helvetica findfont 72.293 sf 0 0 m ( L1_FJ30) show NC gr  1 0 0 c 1672 609 m 30 X s 1734 609 m 29 X s 0 0 1 c 3 lw 1718 501 m21 6 lw black
+ gsave  2268 2176 0 0 C 1773 479 t 0 r /Helvetica findfont 72.293 sf 0 0 m ( L1_FJ55) show NC gr  0 0 1 c 1672 501 m 30 X s 1734 501 m 29 X s
+ gr  gr 

@@ -1,0 +1,278 @@
+TODO
+
+PK - need slide on MC simulation (TB)
+   - need slide on trigger.
+
+slides should be ok
+make backups on topoclusters, pileup/UE, Dijet results, TB resolution numbers.
+
+
+
+
+
+screw with slides. Make some backup slides as PK suggested
+
+
+shit I need to emphasize:
+
+- MC is important. All hadronic calibration derived from MC
+- CMS rapidity gap
+- Forward region is where I do stuff
+- FCal is the new thing in the inclusive measurement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+study
+-read generator paper
+-read (skim at least) nurse paper
+- Mike will ask about QFT
+--make sure we know how generators work
+--renormalisation - look at thooft stuff, maybe go through qcd running couplking again - WW scattering
+--interface between perturbative and non-perturbative 
+-- parton showering - leading logs
+-- colinear radiation
+-- look at scet review?
+
+- check kinematic stuff
+- get some idea of where kinematic limit for tevatron was 
+- should be able to relate pt and energy in FCal (30?)
+
+
+
+
+Slides PK wants me to add:
+
+- EM+JES
+- TB topocluster results
+- pp collisions/UE/Minbias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+introduction
+Atlas
+FCal (in some detail, possibly electronics)
+
+Testbeam
+beamline/instrumentiation/setup
+
+cylindrical clustering
+double gaussian fit
+electrons - pion component
+
+rounding bug should go somewhere
+linearity and resolution results
+
+topoclusters?
+and cluster moments
+
+Inclusive jets
+
+(focus on trigger)
+
+Inclusive jets ( - all jets) and dijets
+kinematic range - first measurement used 17 nb^-1, for jets above (30 GeV?), in rapidity |y| < 2.5
+extended this down to include jets with pt above 20 GeV, and into forward region
+in total, measuring jets in rapidity range |y| < 4.4 and 20 < pt < TeV
+compare to tevatron which did jets in the range 60 GeV - 700 GeV and y < 2.5
+and cms, which does inclusive jets in the range |y| < 2.5 and forward jets in the range 3.2 -4.4 (check numbers)
+
+jets 
+antikt algorithm
+calibration EM+JES
+
+Trigger
+jet trigger overview L1/L2 MBTS
+
+per jet and inclusive efficiency definitions
+forward bin
+L1 efficiencies 
+L2 efficiencies
+transition bin
+overlap - plot
+combined triggers - math
+transition efficiencies
+
+dijet triggers
+
+unfolding (briefly)
+cross section results
+
+#############################################################
+#############################################################
+slides around 20-30.
+title
+introduction
+(2 slides)
+Atlas
+(1-2 slides)
+
+FCal
+some numbers, pic of it in its support tube (cutaway)
+pic of electrodes/matrix
+(2 slides)
+
+Test beam 
+motivation/beamspots/(mention beams of electrons and pions, 10-200 GeV)
+beamline setup / detectors/bathtub
+simulation
+(3-4 slides)
+
+
+cylindrical clustering /double gaussian fit / impact point dependence
+electrons with pion contribution/contamination
+electron linearity/resolution
+(2-4 slides)
+
+hadronic calibration
+hadron resolution/linearity
+2 slides
+
+cluster moments(?)
+
+
+Inclusive jet and dijet cross sections
+intro stuff
+1 slide
+Jet calibration
+1 slide
+
+triggers
+L1/L2 jet triggers (minbias)
+(1 slide)
+trigger efficiency
+per jet
+inclusive efficiency
+(1 slide)
+trigger efficiency plots - akt6, forward region, L1/L2
+(1 slide)
+Transition region
+overlap between forward and central jet trigger (plot)
+Or scheme and trigger math
+transition efficiencies
+(3 slides)
+unfolding
+(1 slide)
+results
+
+inclusive
+dijet
+(2 slides)
+ratios (?)
+
+
+
+total:
+21-25 slides
+
+doit
+
+
+
+Words:
+25 slides, 20 minutes. Want to start Inc JEt stuff after ~10 minutes.
+
+
+1.25 start
+
+
+
+
+1 53
+
+14 17
+
+
+tevatron kinematics
+
+0.1 y 0.7  - 62 pt 700
+0.7 y 1.1  - 62 pt 527
+1.1 y 1.6  - 62 pt 457
+1.6 y 2.1  - 62 pt 300
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

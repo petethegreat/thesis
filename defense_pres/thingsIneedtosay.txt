@@ -1,0 +1,13 @@
+slide 4 - eta coverage of calorimeters is larger than for previous generation of experiments
+
+slide 5 - L1 Calo does jet triggers, which I will talk about later
+	  
+slide 7 - had cal - EM scale energy - expect a linear response to EM particles
+
+slide 8 - there are a few things we need to say here
+
+slide 10 - say what athena is - ATLAS sowftware framework used for reconstruction and analysis of data.	  
+
+
+need to sort out where I first mention the noise subtraction
+

@@ -1,0 +1,66 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{The Standard Model}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Overview}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Quantum ChromoDynamics}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{Factorisation}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Perturbative QCD}{section.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.3}{Soft Processes in Proton-Proton Collisions}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.4}{Hadronisation and Jet Production}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.5}{Monte Carlo Event Generators}{section.2.2}% 9
+\BOOKMARK [0][-]{chapter.3}{The LHC and the ATLAS Detector}{}% 10
+\BOOKMARK [1][-]{section.3.1}{The Large Hadron Collider}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{The ATLAS Detector}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.2.1}{Coordinates}{section.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.2.2}{Inner Detector}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.3}{Muon Spectrometer}{section.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.2.4}{Calorimetry}{section.3.2}% 16
+\BOOKMARK [2][-]{subsection.3.2.5}{The ATLAS Calorimeters}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.6}{Forward Calorimeters}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.7}{Trigger and Data Acquisition}{section.3.2}% 19
+\BOOKMARK [0][-]{chapter.4}{Beam Test studies of the ATLAS Forward Calorimeter}{}% 20
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.2}{Beamline Instrumentation}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.2.1}{Timing and Pulse Shapes}{section.4.2}% 23
+\BOOKMARK [2][-]{subsection.4.2.2}{Offline Reconstruction}{section.4.2}% 24
+\BOOKMARK [1][-]{section.4.3}{Monte Carlo Simulation}{chapter.4}% 25
+\BOOKMARK [2][-]{subsection.4.3.1}{GEANT4 Simulation of the Forward Calorimeter Beam Test}{section.4.3}% 26
+\BOOKMARK [2][-]{subsection.4.3.2}{Reconstruction of Simulation Results}{section.4.3}% 27
+\BOOKMARK [2][-]{subsection.4.3.3}{Noise Generation and Application}{section.4.3}% 28
+\BOOKMARK [1][-]{section.4.4}{Event Selection}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.5}{Results Obtained Using Cylindrical Cell Clustering}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.5.1}{Analysis of Electron Data}{section.4.5}% 31
+\BOOKMARK [2][-]{subsection.4.5.2}{Analysis of Hadron Data}{section.4.5}% 32
+\BOOKMARK [1][-]{section.4.6}{Topological Cell clustering}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.6.1}{Analysis of Electron Data}{section.4.6}% 34
+\BOOKMARK [2][-]{subsection.4.6.2}{Analysis of Hadron Data}{section.4.6}% 35
+\BOOKMARK [2][-]{subsection.4.6.3}{Cluster moments}{section.4.6}% 36
+\BOOKMARK [1][-]{section.4.7}{Beam Test studies in relation to ATLAS}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.8}{Summary}{chapter.4}% 38
+\BOOKMARK [0][-]{chapter.5}{Inclusive Jet and Dijet Cross-Sections}{}% 39
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.2}{Overview of 2010 Running}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.3}{Jets in ATLAS}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.3.1}{Jet Finding Algorithms}{section.5.3}% 43
+\BOOKMARK [2][-]{subsection.5.3.2}{Jet Energy Scale Calibration}{section.5.3}% 44
+\BOOKMARK [2][-]{subsection.5.3.3}{JES uncertainty}{section.5.3}% 45
+\BOOKMARK [2][-]{subsection.5.3.4}{Jet Selection}{section.5.3}% 46
+\BOOKMARK [1][-]{section.5.4}{Event Selection and Data Quality}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.4.1}{Triggers used for the inclusive jet analysis}{section.5.4}% 48
+\BOOKMARK [2][-]{subsection.5.4.2}{Trigger strategy for the Transition Bin}{section.5.4}% 49
+\BOOKMARK [2][-]{subsection.5.4.3}{Dijet Triggers}{section.5.4}% 50
+\BOOKMARK [1][-]{section.5.5}{Unfolding}{chapter.5}% 51
+\BOOKMARK [2][-]{subsection.5.5.1}{The Iterative, Dynamically Stabilised Unfolding Method}{section.5.5}% 52
+\BOOKMARK [2][-]{subsection.5.5.2}{Matching Efficiency}{section.5.5}% 53
+\BOOKMARK [1][-]{section.5.6}{Treatment of uncertainties}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.6.1}{Statistical uncertainties}{section.5.6}% 55
+\BOOKMARK [2][-]{subsection.5.6.2}{Systematic Uncertainties}{section.5.6}% 56
+\BOOKMARK [1][-]{section.5.7}{Results and discussion}{chapter.5}% 57
+\BOOKMARK [2][-]{subsection.5.7.1}{Inclusive Jet Cross-Section}{section.5.7}% 58
+\BOOKMARK [2][-]{subsection.5.7.2}{Dijet Mass Spectrum}{section.5.7}% 59
+\BOOKMARK [1][-]{section.5.8}{Summary}{chapter.5}% 60
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 61
+\BOOKMARK [0][-]{chapter*.117}{Bibliography}{}% 62
+\BOOKMARK [0][-]{Appendix.1.A}{Appendix Additional Simulation results}{}% 63
+\BOOKMARK [1][-]{section.1.A.1}{Results Obtained using Cylindrical Clusters}{Appendix.1.A}% 64
+\BOOKMARK [1][-]{section.1.A.2}{Results Obtained using Topological Clusters}{Appendix.1.A}% 65
+\BOOKMARK [0][-]{Appendix.1.B}{Appendix Data Calibrated using Weights Derived from Monte Carlo}{}% 66
